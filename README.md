@@ -35,4 +35,4 @@ Tecleamos cualquier tecla para volver al menú inicial.
 7. Paso 7) finalmente para finalizar el programa después de haber agregado y modificado los datos correctamente daremos por finalizado utilizando la opción 5 de nuestro menú inicial 
 
 ### Enlace
-[Video Turorial] (https://youtu.be/TeSJP7zJD_E "Demostración de programa")
+[Video Turorial] (https://youtu.be/TeSJP7zJD_E)
