@@ -1,7 +1,7 @@
-##MANUAL DE USO DE PROGRAMA (BASE DE DATOS DE LISTADO DE ALUMNOS 
+## MANUAL DE USO DE PROGRAMA (BASE DE DATOS DE LISTADO DE ALUMNOS 
 ___
 
-###Pasos para ejecutar programa
+### Pasos para ejecutar programa
 1. Paso 1) *Se despliega un menú de opciones de el uno al cinco las cuales indican lo siguiente:*
 
  - Registrar Alumno
@@ -34,5 +34,5 @@ Tecleamos cualquier tecla para volver al menú inicial.
 
 7. Paso 7) finalmente para finalizar el programa después de haber agregado y modificado los datos correctamente daremos por finalizado utilizando la opción 5 de nuestro menú inicial 
 
-###Enlace
-[Video Turorial](https://youtu.be/TeSJP7zJD_E"Demostración de programa")
+### Enlace
+[Video Turorial] (https://youtu.be/TeSJP7zJD_E "Demostración de programa")
